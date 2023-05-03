@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(45, 45, 108);
+}
+.foto{
+  width: 20%;
+  border-radius: 50%;
+  float: left;
+  shape-outside: circle();
+  margin: 1rem;
+}
+h1{
+  text-align: center;
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+}
+p{
+  text-align: justify;
+}
+.content{
+  margin-top: 3rem;
+  background-color: white;
+  border-radius: 1rem;
+  padding: 0 2rem 3rem 2rem;
+  border: 3px solid rgb(45, 45, 108);
+}
+.visas-puslapis{
+  background-color: white;
+  padding: 0;
+}
+
+ 
+
